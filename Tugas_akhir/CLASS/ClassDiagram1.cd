@@ -1,0 +1,179 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Tugas_akhir.clsbahan">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAYAgIAAAAIQQAAAAAAAGEEAAAAAAQAAFAAAg=</HashCode>
+      <FileName>CLASS\clsbahan.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tugas_akhir.clsstaff">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAMAgIAAAACAAAAAAwDFCIAAAABCACAAEAAKA=</HashCode>
+      <FileName>CLASS\clsstaff.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tugas_akhir.clskendaraan">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAIAgIAAAFAAUAIAAQRACAAAAAhAAAAAAAAAA=</HashCode>
+      <FileName>CLASS\clskendaraan.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tugas_akhir.clssample">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAEAIAgMAAAAAAAgAABAAACAEAIAgQQAEAEAAAA=</HashCode>
+      <FileName>CLASS\clssample.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tugas_akhir.clskurir">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAKAgIAAAAAAAAAAAwACCIAAAAFAACAAEAAIA=</HashCode>
+      <FileName>CLASS\clskurir.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tugas_akhir.clsproduk">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAKAEAIAgIAAAgAAAIAAAAAACAAAIQAAAEAAEAAAA=</HashCode>
+      <FileName>CLASS\clsproduk.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tugas_akhir.clscustomer">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAEAIAgIAgAAAAAAAAAwAACIAQAABAACCAEAAIA=</HashCode>
+      <FileName>CLASS\clscustomer.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tugas_akhir.clsbphd">
+    <Position X="12.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAACAAAACAAAAAACAAAAgCAAAAIEAICA=</HashCode>
+      <FileName>CLASS\clsbphd.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tugas_akhir.clsdetil_lbb">
+    <Position X="14.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAIAAAIIQAAACAAAAgAAABAAAAIAA=</HashCode>
+      <FileName>CLASS\clsdetil_lbb.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tugas_akhir.clsdetil_pembelian">
+    <Position X="16.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAQIAACAAAAAAAABQAAIASA=</HashCode>
+      <FileName>CLASS\clsdetil_pembelian.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tugas_akhir.clsdetil_pengajuan">
+    <Position X="18" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAIAAAAAAAAAAwAAAEAAAAAACAAAAAgAAAAAAAAAA=</HashCode>
+      <FileName>CLASS\clsdetil_pengajuan.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tugas_akhir.clsdetil_retur">
+    <Position X="19.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAACAAgAAEAAAQCAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>CLASS\clsdetil_retur.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tugas_akhir.clsdetil_jpp">
+    <Position X="21.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAIAAAAAAAAAAIAAAAAAAACAgAAAgAAAAgAAAAA=</HashCode>
+      <FileName>CLASS\clsdetil_jpp.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tugas_akhir.clsfaktur">
+    <Position X="23.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQIAAAEAgAAAAAAAAAADAAAAAACAAARACAAAAAEACAA=</HashCode>
+      <FileName>CLASS\clsfaktur.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tugas_akhir.clsjpp">
+    <Position X="25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAACAAAAgAIAAAAAAAAAAAYAAAAAAAAA=</HashCode>
+      <FileName>CLASS\clsjpp.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tugas_akhir.clskwitansi">
+    <Position X="26.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAARAAAAAAAAgAAAAAAAAIggAAAAAAACAQAAAAAAAAA=</HashCode>
+      <FileName>CLASS\clskwitansi.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tugas_akhir.clslbb">
+    <Position X="28.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAoCAAAACAIAAAAAAAAAACQAAAAAAIAA=</HashCode>
+      <FileName>CLASS\clslbb.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tugas_akhir.clspembelian">
+    <Position X="30.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAICCAEAIAoAAAAAAAAAQAAAAAAACA=</HashCode>
+      <FileName>CLASS\clspembelian.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tugas_akhir.clspengajuan">
+    <Position X="32" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAEAAAAAAAAQAAAEQIAAAQAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>CLASS\clspengajuan.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tugas_akhir.clspp">
+    <Position X="33.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIABACAAAAAAAQAQAAAGAIAAAAAAAAAACQAAQAAAAAE=</HashCode>
+      <FileName>CLASS\clspp.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tugas_akhir.clsretur">
+    <Position X="35.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAMAAAAAAAAAEAAAABAMAAAAAAAABAgQAAAAAAAAA=</HashCode>
+      <FileName>CLASS\clsretur.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tugas_akhir.clsspk">
+    <Position X="37.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAgAQAAAAgEAAABEFQIAAAAAAAABCAQAAQAABQAA=</HashCode>
+      <FileName>CLASS\clsspk.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tugas_akhir.clssupplier">
+    <Position X="39" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACEgAAAABACAIAAAAAIAwAAAIAAAABQACAAAAEIA=</HashCode>
+      <FileName>CLASS\clssupplier.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tugas_akhir.clsdetil_pp">
+    <Position X="40.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAIAAAAAAAggAAACAAAAAACAAAAACAAAQAAAAQA=</HashCode>
+      <FileName>CLASS\clsdetil_pp.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tugas_akhir.clsada">
+    <Position X="42.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAACAAAAAAABAAAAAACAAABAgIAAAAAAAAA=</HashCode>
+      <FileName>CLASS\clsada.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,213 @@
+F:\Tugas_akhir\Tugas_akhir\bin\Debug\Tugas_akhir.exe
+F:\Tugas_akhir\Tugas_akhir\bin\Debug\Tugas_akhir.pdb
+F:\Tugas_akhir\Tugas_akhir\bin\Debug\Tugas_akhir.xml
+F:\Tugas_akhir\Tugas_akhir\obj\Debug\ResolveAssemblyReference.cache
+F:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.Form1.resources
+F:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmpopupbphd.resources
+F:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmbphd.resources
+F:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmjpp.resources
+F:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmfaktur.resources
+F:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmentrybahan.resources
+F:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmentrycustomer.resources
+F:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmentrykendaraan.resources
+F:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmentrykurir.resources
+F:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmentryproduk.resources
+F:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmentrystaff.resources
+F:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmentrysupplier.resources
+F:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmsample.resources
+F:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmpopupsupplier.resources
+F:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmpopupstaff.resources
+F:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmpopupbahan.resources
+F:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmpopupcustomer.resources
+F:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmpopupkendaraan.resources
+F:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmpopupkurir.resources
+F:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmpopupproduk.resources
+F:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmpopupsample.resources
+F:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.LoginForm1.resources
+F:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmkwitansi.resources
+F:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmlappembelianbahan.resources
+F:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmlappemesanankendaraan.resources
+F:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmlappengirimanbrgvb.resources
+F:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmlappenjualan.resources
+F:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmlapretur.resources
+F:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmlapsepatuterbanyak.resources
+F:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmlbb.resources
+F:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmpembelianbahan.resources
+F:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmpengajuan.resources
+F:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmpopupretur.resources
+F:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmpopupsampleajuan.resources
+F:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmpopuplbb.resources
+F:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmpopupPP.resources
+F:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmpopupfaktur.resources
+F:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmpopupspk.resources
+F:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmpopupkwt.resources
+F:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmPP.resources
+F:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmretur.resources
+F:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmspk.resources
+F:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.Resources.resources
+F:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.vbproj.GenerateResource.Cache
+F:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.exe
+F:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.xml
+F:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.pdb
+H:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.exe
+H:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.xml
+H:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.pdb
+H:\Tugas_akhir\Tugas_akhir\bin\Debug\Tugas_akhir.exe
+H:\Tugas_akhir\Tugas_akhir\bin\Debug\Tugas_akhir.pdb
+H:\Tugas_akhir\Tugas_akhir\bin\Debug\Tugas_akhir.xml
+H:\Tugas_akhir\Tugas_akhir\obj\Debug\ResolveAssemblyReference.cache
+H:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.Form1.resources
+H:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmpopupfakturjpp.resources
+H:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmpopupbphd.resources
+H:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmpopupspkjpp.resources
+H:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmbphd.resources
+H:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmjpp.resources
+H:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmfaktur.resources
+H:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmentrybahan.resources
+H:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmentrycustomer.resources
+H:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmentrykendaraan.resources
+H:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmentrykurir.resources
+H:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmentryproduk.resources
+H:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmentrystaff.resources
+H:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmentrysupplier.resources
+H:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmsample.resources
+H:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmpopupsupplier.resources
+H:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmpopupstaff.resources
+H:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmpopupbahan.resources
+H:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmpopupcustomer.resources
+H:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmpopupkendaraan.resources
+H:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmpopupkurir.resources
+H:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmpopupproduk.resources
+H:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmpopupsample.resources
+H:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.LoginForm1.resources
+H:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmkwitansi.resources
+H:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmlappembelianbahan.resources
+H:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmlappemesanankendaraan.resources
+H:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmlappengirimanbrgvb.resources
+H:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmlappenjualan.resources
+H:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmlapretur.resources
+H:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmlapsepatuterbanyak.resources
+H:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmlbb.resources
+H:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmpembelianbahan.resources
+H:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmpengajuan.resources
+H:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmpopupretur.resources
+H:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmpopupsampleajuan.resources
+H:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmpopuplbb.resources
+H:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmpopupPP.resources
+H:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmpopupfaktur.resources
+H:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmpopupspk.resources
+H:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmpopupkwt.resources
+H:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmPP.resources
+H:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmretur.resources
+H:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmspk.resources
+H:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.Resources.resources
+H:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.vbproj.GenerateResource.Cache
+H:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmreportviewer.resources
+D:\Tugas_akhir\Tugas_akhir\bin\Debug\Tugas_akhir.exe
+D:\Tugas_akhir\Tugas_akhir\bin\Debug\Tugas_akhir.pdb
+D:\Tugas_akhir\Tugas_akhir\bin\Debug\Tugas_akhir.xml
+D:\Tugas_akhir\Tugas_akhir\obj\Debug\ResolveAssemblyReference.cache
+D:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.Form1.resources
+D:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmpopupfakturjpp.resources
+D:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmpopupbphd.resources
+D:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmpopupspkjpp.resources
+D:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmbphd.resources
+D:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmjpp.resources
+D:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmfaktur.resources
+D:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmentrybahan.resources
+D:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmentrycustomer.resources
+D:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmentrykendaraan.resources
+D:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmentrykurir.resources
+D:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmentryproduk.resources
+D:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmentrystaff.resources
+D:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmentrysupplier.resources
+D:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmsample.resources
+D:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmpopupsupplier.resources
+D:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmpopupstaff.resources
+D:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmpopupbahan.resources
+D:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmpopupcustomer.resources
+D:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmpopupkendaraan.resources
+D:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmpopupkurir.resources
+D:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmpopupproduk.resources
+D:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmpopupsample.resources
+D:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.LoginForm1.resources
+D:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmkwitansi.resources
+D:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmlappembelianbahan.resources
+D:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmlappemesanankendaraan.resources
+D:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmlappengirimanbrgvb.resources
+D:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmlappenjualan.resources
+D:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmlapretur.resources
+D:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmlapsepatuterbanyak.resources
+D:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmlbb.resources
+D:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmpembelianbahan.resources
+D:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmpengajuan.resources
+D:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmpopupretur.resources
+D:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmpopupsampleajuan.resources
+D:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmpopuplbb.resources
+D:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmpopupPP.resources
+D:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmpopupfaktur.resources
+D:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmpopupspk.resources
+D:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmpopupkwt.resources
+D:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmPP.resources
+D:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmreportviewer.resources
+D:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmretur.resources
+D:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmspk.resources
+D:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.Resources.resources
+D:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.vbproj.GenerateResource.Cache
+D:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.exe
+D:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.xml
+D:\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.pdb
+D:\Kumpulan Projek\VB 2008\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.exe
+D:\Kumpulan Projek\VB 2008\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.xml
+D:\Kumpulan Projek\VB 2008\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.pdb
+D:\Kumpulan Projek\VB 2008\Tugas_akhir\Tugas_akhir\bin\Debug\Tugas_akhir.exe
+D:\Kumpulan Projek\VB 2008\Tugas_akhir\Tugas_akhir\bin\Debug\Tugas_akhir.pdb
+D:\Kumpulan Projek\VB 2008\Tugas_akhir\Tugas_akhir\bin\Debug\Tugas_akhir.xml
+D:\Kumpulan Projek\VB 2008\Tugas_akhir\Tugas_akhir\obj\Debug\ResolveAssemblyReference.cache
+D:\Kumpulan Projek\VB 2008\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.Form1.resources
+D:\Kumpulan Projek\VB 2008\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmpopupfakturjpp.resources
+D:\Kumpulan Projek\VB 2008\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmpopupbphd.resources
+D:\Kumpulan Projek\VB 2008\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmpopupspkjpp.resources
+D:\Kumpulan Projek\VB 2008\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmbphd.resources
+D:\Kumpulan Projek\VB 2008\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmjpp.resources
+D:\Kumpulan Projek\VB 2008\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmfaktur.resources
+D:\Kumpulan Projek\VB 2008\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmentrybahan.resources
+D:\Kumpulan Projek\VB 2008\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmentrycustomer.resources
+D:\Kumpulan Projek\VB 2008\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmentrykendaraan.resources
+D:\Kumpulan Projek\VB 2008\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmentrykurir.resources
+D:\Kumpulan Projek\VB 2008\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmentryproduk.resources
+D:\Kumpulan Projek\VB 2008\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmentrystaff.resources
+D:\Kumpulan Projek\VB 2008\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmentrysupplier.resources
+D:\Kumpulan Projek\VB 2008\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmsample.resources
+D:\Kumpulan Projek\VB 2008\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmpopupsupplier.resources
+D:\Kumpulan Projek\VB 2008\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmpopupstaff.resources
+D:\Kumpulan Projek\VB 2008\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmpopupbahan.resources
+D:\Kumpulan Projek\VB 2008\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmpopupcustomer.resources
+D:\Kumpulan Projek\VB 2008\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmpopupkendaraan.resources
+D:\Kumpulan Projek\VB 2008\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmpopupkurir.resources
+D:\Kumpulan Projek\VB 2008\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmpopupproduk.resources
+D:\Kumpulan Projek\VB 2008\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmpopupsample.resources
+D:\Kumpulan Projek\VB 2008\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.LoginForm1.resources
+D:\Kumpulan Projek\VB 2008\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmkwitansi.resources
+D:\Kumpulan Projek\VB 2008\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmlappembelianbahan.resources
+D:\Kumpulan Projek\VB 2008\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmlappemesanankendaraan.resources
+D:\Kumpulan Projek\VB 2008\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmlappengirimanbrgvb.resources
+D:\Kumpulan Projek\VB 2008\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmlappenjualan.resources
+D:\Kumpulan Projek\VB 2008\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmlapretur.resources
+D:\Kumpulan Projek\VB 2008\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmlapsepatuterbanyak.resources
+D:\Kumpulan Projek\VB 2008\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmlbb.resources
+D:\Kumpulan Projek\VB 2008\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmpembelianbahan.resources
+D:\Kumpulan Projek\VB 2008\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmpengajuan.resources
+D:\Kumpulan Projek\VB 2008\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmpopupretur.resources
+D:\Kumpulan Projek\VB 2008\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmpopupsampleajuan.resources
+D:\Kumpulan Projek\VB 2008\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmpopuplbb.resources
+D:\Kumpulan Projek\VB 2008\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmpopupPP.resources
+D:\Kumpulan Projek\VB 2008\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmpopupfaktur.resources
+D:\Kumpulan Projek\VB 2008\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmpopupspk.resources
+D:\Kumpulan Projek\VB 2008\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmpopupkwt.resources
+D:\Kumpulan Projek\VB 2008\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmPP.resources
+D:\Kumpulan Projek\VB 2008\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmreportviewer.resources
+D:\Kumpulan Projek\VB 2008\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmretur.resources
+D:\Kumpulan Projek\VB 2008\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.frmspk.resources
+D:\Kumpulan Projek\VB 2008\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.Resources.resources
+D:\Kumpulan Projek\VB 2008\Tugas_akhir\Tugas_akhir\obj\Debug\Tugas_akhir.vbproj.GenerateResource.Cache
